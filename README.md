@@ -10,5 +10,9 @@ Unzip the rar file before use. Before running the code download the following li
 2.numpy 
 3.tkinter
 4.pip install face-recognition
+5.sqlite3
+6.glob
+7.datetime
+8.openpyxl
 
 I hope this will be usefull to you.
